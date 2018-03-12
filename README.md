@@ -10,7 +10,3 @@ Just fork the original repo at pragmaticlearning/github-example, make your chang
 
 
 Just test!!!!!
-i think i have been learn how to use github
-
-
-111
